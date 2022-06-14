@@ -1,8 +1,8 @@
 # 💫About Me :
-I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA
-I'm looking to collaborate on project in open source and selfprojeect
-I'm currently learning algorithms structureand , DevOps, react 
-Ask me about eveerything you want
+I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.
+I'm looking to collaborate on project in open source and selfprojeect.
+I'm currently learning algorithms structureand , DevOps, react .
+Ask me about eveerything you want.
 Fun fact
 The first computer “bug” was an actual real-life bug
 
