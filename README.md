@@ -29,7 +29,7 @@ The first computer “bug” was an actual real-life bug
 [![](https://visitcount.itsvg.in/api?id=B-batman12thy&icon=4&color=3)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/myaccount/summary) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/myaccount/summary) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
