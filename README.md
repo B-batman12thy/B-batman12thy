@@ -1,4 +1,3 @@
-<img src="Images">
 # 💫About Me :
 I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.
 I'm looking to collaborate on project in open source and selfprojeect.
