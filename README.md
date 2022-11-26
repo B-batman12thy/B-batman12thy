@@ -1,10 +1,10 @@
 # 💫About Me :
 I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.<br>
-I'm looking to collaborate on project in open source and selfprojeect.
-I'm currently learning algorithms structured, DevOps, react .
-Ask me about eveerything you want.
-Fun fact
-The first computer “bug” was an actual real-life bug
+I'm looking to collaborate on project in open source and selfprojeect.<br>
+I'm currently learning algorithms structured, DevOps, react .<br>
+Ask me about eveerything you want.<br>
+Fun fact<br>
+The first computer “bug” was an actual real-life bug<br>
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/djibythioub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djiby-thioub-583880169/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/djibythioub) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCk9X4KjLPbtXFjOOjytJZSw) 
