@@ -1,3 +1,4 @@
+Hi there,I'm Djiby👋
 # 💫About Me :
 I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.<br>
