@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.
+I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.
 I'm currently learning algorithms structured, DevOps, react .
 Ask me about eveerything you want.
