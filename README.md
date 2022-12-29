@@ -21,7 +21,6 @@ The first computer “bug” was an actual real-life bug<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=B-batman12thy&icon=4&color=3)](https://visitcount.itsvg.in)
