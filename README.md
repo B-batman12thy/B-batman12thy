@@ -1,4 +1,4 @@
-<h1>Hi there,I'm <b>Djiby</b></h1>
+<h1>Hi there,I'm Djiby🥷</h1>
 
 I'm currently working on JS /typeScript/ Angular and sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.<br>
