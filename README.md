@@ -17,8 +17,6 @@ The first computer “bug” was an actual real-life bug<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=B-batman12thy&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=B-batman12thy&icon=4&color=3)](https://visitcount.itsvg.in)
