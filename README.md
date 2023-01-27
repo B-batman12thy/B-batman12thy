@@ -1,5 +1,7 @@
 <h1>Hi there,I'm Djiby🥷</h1>
 
+<h2>MEAN STACK DEVELOPER </h2>
+
 I'm currently working on JavaScript /typeScript/ Angular sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.<br>
 I'm currently learning algorithms structured, DevOps, react .<br>
