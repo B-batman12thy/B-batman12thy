@@ -17,12 +17,5 @@ The first computer “bug” was an actual real-life bug<br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=B-batman12thy&theme=dracula&hide_border=true)<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=B-batman12thy&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=B-batman12thy&icon=4&color=3)](https://visitcount.itsvg.in)
-
- 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
