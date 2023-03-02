@@ -2,7 +2,7 @@
 
 <h2>SOFTWARE ENGINEER - MEAN STACK DEVELOPER - UI/UX DESIGNER </h2>
 
-I'm currently working on JavaScript /typeScript/ Angular sprinboot and FIGMA.<br>
+I'm currently learning on JavaScript /typeScript/ Angular sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.<br>
 I'm currently learning algorithms structured, DevOps, react .<br>
 Ask me about eveerything you want.<br>
