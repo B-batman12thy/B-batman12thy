@@ -1,6 +1,6 @@
 <h3>Hi there,I'm Djiby🥷</h3>
 
-<h2>SOFTWARE ENGINEER - MEAN STACK DEVELOPER - UI/UX DESIGNER </h2>
+<h2>SOFTWARE ENGINEER</h2>
 
 I'm currently learning on JavaScript /typeScript/ Angular sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.<br>
