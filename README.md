@@ -1,7 +1,8 @@
 <h3>Hi there,I'm Djiby🥷</h3>
 
-<h2>SOFTWARE ENGINEER</h2>
 
+<h2>SOFTWARE ENGINEER</h2>
+<a href="https://app.daily.dev/djison_"><img src="https://api.daily.dev/devcards/83865b10d0854a0ca41debc6126d682a.png?r=gz5" width="400" alt="djiby thioub's Dev Card"/></a>
 I'm currently learning on JavaScript /typeScript/ Angular sprinboot and FIGMA.<br>
 I'm looking to collaborate on project in open source and selfprojeect.<br>
 I'm currently learning algorithms structured, DevOps, react .<br>
