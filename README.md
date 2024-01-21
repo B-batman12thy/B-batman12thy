@@ -10,7 +10,7 @@ Ask me about everything you want.
 Fun fact: The first computer “bug” was an actual real-life bug
 
 <!-- Second block with link and image -->
-[![djiby thioub's Dev Card](https://api.daily.dev/devcards/83865b10d0854a0ca41debc6126d682a.png?r=gz5)](https://app.daily.dev/djison_)
+[![djiby thioub's Dev Card](https://api.daily.dev/devcards/83865b10d0854a0ca41debc6126d682a.png?r=gz5)](https://app.daily.dev/djison_){:width="200"}
 
 
 ## 🌐Socials
