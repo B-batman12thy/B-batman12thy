@@ -9,9 +9,6 @@ I'm currently learning algorithms, structured, DevOps, and React.
 Ask me about everything you want.  
 Fun fact: The first computer “bug” was an actual real-life bug
 
-<!-- Second block with link and image -->
-[![djiby thioub's Dev Card](https://api.daily.dev/devcards/83865b10d0854a0ca41debc6126d682a.png?r=gz5)](https://app.daily.dev/djison_){:width="200"}
-
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/djibythioub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djiby-thioub-583880169/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/djibythioub) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCk9X4KjLPbtXFjOOjytJZSw) 
