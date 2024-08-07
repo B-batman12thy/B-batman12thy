@@ -2,10 +2,8 @@
 
 
 <h2>SOFTWARE ENGINEER</h2>
-<!-- First block with paragraph -->
-I'm currently learning on JavaScript / TypeScript / Angular / Spring Boot and FIGMA.  
-I'm looking to collaborate on projects in open source and self-projects.  
-I'm currently learning algorithms, structured, DevOps, and React.  
+<!-- First block with paragraph --> 
+I'm looking to collaborate on projects in open source and self-projects.   
 Ask me about everything you want.  
 Fun fact: The first computer “bug” was an actual real-life bug
 
